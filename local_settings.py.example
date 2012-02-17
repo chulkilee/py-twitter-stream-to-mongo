@@ -1,0 +1,11 @@
+TWITTER = {
+    'consumer_key': '',
+    'consumer_secret': '',
+    'oauth_token': '',
+    'oauth_token_secret': '',
+}
+
+# MONGODB = {
+#     'database': 'twitter_stream',
+#     'collection': 'events',
+# }
